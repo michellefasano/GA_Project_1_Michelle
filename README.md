@@ -1,6 +1,7 @@
 # GA_Project_1_Michelle
 
 Problem 1:
+
 def palindrome_checker(number):
     #get the full number as as string then compare it to the number printed backwards
     if str(number)[0:] == str(number)[::-1]:
